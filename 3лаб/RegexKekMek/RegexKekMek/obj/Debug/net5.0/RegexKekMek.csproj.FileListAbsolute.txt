@@ -1,0 +1,16 @@
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\bin\Debug\net5.0\RegexKekMek.exe
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\bin\Debug\net5.0\RegexKekMek.deps.json
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\bin\Debug\net5.0\RegexKekMek.runtimeconfig.json
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\bin\Debug\net5.0\RegexKekMek.runtimeconfig.dev.json
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\bin\Debug\net5.0\RegexKekMek.dll
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\bin\Debug\net5.0\ref\RegexKekMek.dll
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\bin\Debug\net5.0\RegexKekMek.pdb
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\obj\Debug\net5.0\RegexKekMek.csproj.AssemblyReference.cache
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\obj\Debug\net5.0\RegexKekMek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\obj\Debug\net5.0\RegexKekMek.AssemblyInfoInputs.cache
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\obj\Debug\net5.0\RegexKekMek.AssemblyInfo.cs
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\obj\Debug\net5.0\RegexKekMek.csproj.CoreCompileInputs.cache
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\obj\Debug\net5.0\RegexKekMek.dll
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\obj\Debug\net5.0\ref\RegexKekMek.dll
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\obj\Debug\net5.0\RegexKekMek.pdb
+C:\Users\RomeF\source\repos\RegexKekMek\RegexKekMek\obj\Debug\net5.0\RegexKekMek.genruntimeconfig.cache
